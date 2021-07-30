@@ -1,0 +1,7 @@
+# Python Compiled Files
+*.py[cod]
+
+# Exercism Json Data
+*/.exercism
+
+# Exercism README
