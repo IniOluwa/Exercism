@@ -5,3 +5,4 @@
 ### Python
 - Hello World
 - Hamming
+- Word Count
