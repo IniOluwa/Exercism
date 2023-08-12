@@ -3,3 +3,6 @@
 
 # Exercism Json Data
 /.exercism
+
+# Mac DS_Store
+*.DS_Store
