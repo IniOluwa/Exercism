@@ -18,3 +18,4 @@
 - Currency Exchange
 - Ghost Gobble Arcade Game
 - Raindrops
+- Triangle
