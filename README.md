@@ -20,3 +20,4 @@
 - Raindrops
 - Triangle
 - Perfect Numbers
+- ArmStrong Numbers
