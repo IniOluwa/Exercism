@@ -21,3 +21,4 @@
 - Triangle
 - Perfect Numbers
 - ArmStrong Numbers
+- Collatz Conjecture
