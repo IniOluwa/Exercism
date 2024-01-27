@@ -19,3 +19,4 @@
 - Ghost Gobble Arcade Game
 - Raindrops
 - Triangle
+- Perfect Numbers
