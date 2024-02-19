@@ -22,3 +22,4 @@
 - Perfect Numbers
 - ArmStrong Numbers
 - Collatz Conjecture
+- Grains
