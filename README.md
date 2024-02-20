@@ -23,3 +23,4 @@
 - ArmStrong Numbers
 - Collatz Conjecture
 - Grains
+- Black Jack
