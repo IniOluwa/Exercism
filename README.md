@@ -24,3 +24,4 @@
 - Collatz Conjecture
 - Grains
 - Black Jack
+- Little Sister's Vocab
