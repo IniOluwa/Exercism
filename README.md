@@ -27,3 +27,4 @@
 - Little Sister's Vocab
 - Reverse String
 - Darts
+- Rotational Cipher
