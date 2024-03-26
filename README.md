@@ -30,3 +30,4 @@
 - Rotational Cipher
 - Little Sister's Essay
 - Card Games
+- ISBN Verifier
