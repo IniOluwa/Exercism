@@ -32,3 +32,4 @@
 - Card Games
 - ISBN Verifier
 - Isogram
+- Chaitana's Colossal Coaster
